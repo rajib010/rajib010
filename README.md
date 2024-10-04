@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rajib_974" target="blank"><img src="https://img.shields.io/twitter/follow/rajib_974?logo=twitter&style=for-the-badge" alt="rajib_974" /></a> </p>
 
-- 🔭 I’m currently working on **developing MERN stack projects**
+- 🔭 I’m currently working on **developing MERN stack and NEXT projects**
 
 - 🌱 I’m currently learning **Express&React Advanced Projects**
 
