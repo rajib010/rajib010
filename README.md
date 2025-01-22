@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **developing MERN stack and NEXT projects**
 
-- 🌱 I’m currently learning **Express&React Advanced Projects**
+- 🌱 I’m currently learning **NEST JS**
 
-- 💬 Ask me about **react, express, js**
+- 💬 Ask me about **react, express, mysql, mongodb, redux, js**
 
 - 📫 How to reach me **pokhrelrajib016@gmail.com**
   
@@ -31,4 +31,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajib010&show_icons=true&locale=en" alt="rajib010" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajib010&" alt="rajib010" /></p>
