@@ -1,3 +1,5 @@
+<img align="center" width="400" src="https://raw.githubusercontent.com/rajib010/rajib010/main/image.jpg" alt="rajib010" />
+
 <h1 align="center">Hello Everyone👋</h1>
 <h3 align="center">I’m Rajib Pokhrel, a Full Stack Web Developer passionate about building scalable and user-centric applications.
 
@@ -9,7 +11,6 @@ Whether it’s developing dynamic user interfaces, optimizing performance, or de
 
 🔗 Connect with me or explore my projects below — I’m always open to collaboration, learning, and building great things together.</h3>
 
-<img align="right" width="400" src="" alt="rajib010" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajib010" alt="rajib010" /></a> </p>
 
