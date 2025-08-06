@@ -1,7 +1,15 @@
-<h1 align="center">Hi 👋, I'm Rajib Pokhrel</h1>
-<h3 align="center">Every day I know less, and every day I try to learn more. The more I discover, the more I realize how vast the world of knowledge is. This realization fuels my curiosity and drives my continuous quest for understanding.</h3>
+<h1 align="center">Hello Everyone👋</h1>
+<h3 align="center">I’m Rajib Pokhrel, a Full Stack Web Developer passionate about building scalable and user-centric applications.
 
-<img align="right" width="400" src="https://as1.ftcdn.net/v2/jpg/07/10/68/28/1000_F_710682825_tLXRWzu9EEOWgduWJ4MASkzve16Asyt2.jpg" alt="rajib010" />
+💼 Currently working at Binary Digits, I specialize in modern web technologies like Next.js, React.js, and Node.js, crafting robust front-end interfaces and efficient backend systems.
+
+💡 I believe that learning is a lifelong journey. The deeper I dive into technology, the more I discover how vast and exciting this world truly is. This fuels my curiosity and drives me to explore, build, and solve real-world problems through code.
+
+Whether it’s developing dynamic user interfaces, optimizing performance, or deploying full-stack applications, I enjoy turning ideas into digital realities.
+
+🔗 Connect with me or explore my projects below — I’m always open to collaboration, learning, and building great things together.</h3>
+
+<img align="right" width="400" src="" alt="rajib010" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajib010" alt="rajib010" /></a> </p>
 
