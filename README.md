@@ -1,4 +1,6 @@
-<img align="center" width="400" src="https://raw.githubusercontent.com/rajib010/rajib010/main/rajib_pokhrel.jpg" alt="rajib010" />
+<div align="center">
+  <img width="400" src="https://raw.githubusercontent.com/rajib010/rajib010/main/rajib_pokhrel.jpg" alt="rajib010" />
+</div>
 
 <h1 align="center">Hello Everyone👋</h1>
 <h3 align="center">I’m Rajib Pokhrel, a Full Stack Web Developer passionate about building scalable and user-centric applications.
