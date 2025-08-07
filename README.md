@@ -18,11 +18,11 @@ Whether it’s developing dynamic user interfaces, optimizing performance, or de
 
 <p align="left"> <a href="https://twitter.com/rajib_974" target="blank"><img src="https://img.shields.io/twitter/follow/rajib_974?logo=twitter&style=for-the-badge" alt="rajib_974" /></a> </p>
 
-- 🔭 I’m currently working on **developing NEST JS projects**
+- 🔭 I’m currently working as FullStack Developer in **Binary Digits**
 
-- 🌱 I’m currently learning **NEST JS**
+- 🌱 I’m currently learning **Docker**
 
-- 💬 Ask me about **react, express, mysql, mongodb, redux, js**
+- 💬 Ask me about **react, express, mysql, mongodb, redux, next**
 
 - 📫 How to reach me **pokhrelrajib016@gmail.com**
   
